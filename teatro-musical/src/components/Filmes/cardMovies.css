@@ -1,0 +1,38 @@
+.card-parent {
+    color: aqua;
+    padding-top: 0.2em ;
+    margin-right: 0.3em;
+    margin-top: 1vh;
+    text-align: center;
+    }
+
+span {
+    font-size: x-small;
+    color: #333333;
+    font-weight: 700;
+
+}
+
+.card {
+   border: 1px solid white;
+    border-radius: 5px ;
+    width: 150px;
+    height: 200px;
+    display: grid;
+    padding: 0.9em;
+    padding-bottom: 1.7em;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #001427;
+}
+.text-card {
+    text-align: center;
+    margin: 0.6em;
+
+}
+#negaImg {
+    width: 150px;
+    height: 180px;
+    margin-bottom: 0.2em;
+
+}
