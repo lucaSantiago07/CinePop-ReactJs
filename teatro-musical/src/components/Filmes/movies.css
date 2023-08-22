@@ -1,0 +1,10 @@
+.section-Movies {
+    width: 95vw;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    column-gap: 10px;
+    overflow-x:hidden;
+    margin-top: 3vh;
+    height:auto;
+}

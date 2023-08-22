@@ -1,0 +1,37 @@
+
+header {
+    display:flex;
+     }
+  
+  .title-Header {
+    margin-right: 2em;
+  }
+  
+  .menu {
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+    columns: 8;  
+    font-weight: 600;  
+  }
+  
+  .menu a {
+    margin: 0.2em;
+    cursor: pointer;
+    text-decoration: none;
+    color: #333333;
+
+}
+
+  .menu a:hover {
+    color: #001427;
+  }
+
+  .blue {
+    color: blue;
+  }
+
+  .brown {
+    color: #b90504;
+    text-shadow: 1px solid black;
+  }
